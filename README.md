@@ -11,10 +11,22 @@ It includes classes for Books, Users, and Library operations such as issuing and
 
 ## Technologies Used
 - Java
-- Eclipse IDE
+- VS Code
 
 ## How to Run
-1. Download the source code from the repository.
-2. Extract the ZIP file.
-3. Open the folders in Eclipse.
-4. Run `LibraryManagementSystem.java` as a Java Application.
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/RishabhSharma7818/Library-Management-System.git
+```
+
+### Run the Program
+1. Open the project in VS Code
+2. Navigate to the `LibraryManagementSystem` folder
+3. Run the `LibraryManagementSystem.java` file
+
+## Author
+
+Rishabh Sharma
+
