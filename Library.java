@@ -1,4 +1,4 @@
-package Library-Management-System;
+package LibraryManagementSystem;
 
 import java.util.ArrayList;
 

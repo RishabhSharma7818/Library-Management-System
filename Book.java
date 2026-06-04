@@ -1,4 +1,4 @@
-package Library-Management-System;
+package LibraryManagementSystem;
 
 public class Book {
     private int id;

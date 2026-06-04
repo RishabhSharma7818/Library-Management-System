@@ -1,4 +1,4 @@
-package Library-Management-System;
+package LibraryManagementSystem;
 
 public class User {
     private int userId;
